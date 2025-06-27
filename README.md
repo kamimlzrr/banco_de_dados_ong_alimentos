@@ -87,6 +87,10 @@ Modelo Lógico:
         SELECT * FROM Entregas;
         SELECT * FROM DetalheEntrega;
         ```
+Consulta realizada para teste: 
+
+
+![image](https://github.com/user-attachments/assets/e39352b7-95a5-47e6-b5b4-0c55e0875556)
 
 ## 📂 Estrutura do Projeto
 
