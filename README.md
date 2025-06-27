@@ -24,6 +24,9 @@ O esquema do banco de dados é composto por tabelas interconectadas que suportam
 * **`DetalheEntrega`**: Permite especificar quais e quantas unidades de `Alimentos` e/ou `RefeicoesProntas` foram incluídas em cada `Entrega`.
 
 Modelo Conceitual: 
+
+
+
 ![Modelo Conceitual](https://github.com/user-attachments/assets/780ba9c8-c0de-44af-b39b-a2476a1fafba)
 
 ## 🛠️ Tecnologias Utilizadas
