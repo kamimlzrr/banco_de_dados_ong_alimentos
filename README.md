@@ -23,7 +23,7 @@ O esquema do banco de dados é composto por tabelas interconectadas que suportam
 * **`Entregas`**: Registra as entregas realizadas, incluindo o voluntário responsável, a data e o endereço de destino.
 * **`DetalheEntrega`**: Permite especificar quais e quantas unidades de `Alimentos` e/ou `RefeicoesProntas` foram incluídas em cada `Entrega`.
 
-Modelo Conceitual: 
+Modelo Conceitual: .
 
 
 
